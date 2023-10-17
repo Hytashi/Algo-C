@@ -1,5 +1,5 @@
 # Algo-C • Common Algorithms and Data Structures in C
----
+
 ## Purpose
 This repository contains a collection of common algorithms and data structures implemented in C.
 
