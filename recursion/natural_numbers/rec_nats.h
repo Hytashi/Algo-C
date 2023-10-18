@@ -23,10 +23,10 @@ extern bool is_eq(unsigned int x, unsigned int y);
 //  is_neq: Returns whether x and y are different.
 extern bool is_neq(unsigned int x, unsigned int y);
 
-//  is_leq: Returns whether x is lower than or equal to y.
+//  is_leq: Returns whether x is less than or equal to y.
 extern bool is_leq(unsigned int x, unsigned int y);
 
-//  is_lth: Returns whether x is strictly lower than y.
+//  is_lth: Returns whether x is strictly less than y.
 extern bool is_lth(unsigned int x, unsigned int y);
 
 //  is_geq: Returns whether x is greater than or equal to y.
